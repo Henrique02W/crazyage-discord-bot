@@ -56,7 +56,8 @@ crazyage-discord-bot/
     ├── reactions.py
     ├── sugestões.py
     └── tickets.py
-├── LICENSE
+├── LICENSE.md
+├── LICENSE_pt.md
 └── README.md
 ```
 

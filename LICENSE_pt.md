@@ -1,3 +1,6 @@
+This license is provided in both English and Portuguese.
+In case of conflict, the English version shall prevail.
+
 Licença Personalizada de Uso Não Comercial v1.0
 
 Copyright (c) 2026 Henrique02W

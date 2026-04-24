@@ -1,4 +1,5 @@
 In case of conflict, the English version shall prevail.
+
 Custom Non-Commercial Software License v1.0
 
 Copyright (c) 2026 Henrique02W

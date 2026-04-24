@@ -94,10 +94,10 @@ pip install -r requirements.txt
 
 1. Edite o main.py
 ```
-TOKEN = =seu_token_aqui
+TOKEN = seu_token_aqui
 ```
 
-2. Configure os arquivos dentro da pasta `/config`
+2. Configure os arquivos dentro da pasta `/cogs`
 
 ---
 

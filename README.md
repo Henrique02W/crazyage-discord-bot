@@ -7,32 +7,30 @@
 ![Discord](https://img.shields.io/badge/discord-bot-5865F2)
 ![Contribuições](https://img.shields.io/badge/contribuições-bem--vindas-orange)
 
-> ⚡ Um bot poderoso e altamente customizável para o ecossistema **CrazyAge / Beyond Horizons**.
+> ⚡ Um bot poderoso e altamente customizável para o ecossistema **CrazyAge**.
 
 ---
 
 ## 📖 Sobre o Projeto
 
-O **CrazyAge Discord Bot** foi desenvolvido para integrar seu servidor Minecraft com o Discord, oferecendo automação, moderação e interação em tempo real entre jogadores e a comunidade.
+O **CrazyAge Discord Bot** foi desenvolvido para auxiliar o Discord, oferecendo automação, moderação e interação entre jogadores e a comunidade.
 
 O projeto foi pensado para ser:
 
-* 🔧 Modular
-* 🚀 Escalável
-* ⚡ Fácil de expandir
+*  Modular
+*  Escalável
+*  Fácil de expandir
 
 ---
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 * 📢 Sistema de anúncios
-* 💬 Integração de chat (Minecraft ↔ Discord) *(opcional)*
 * 🎟️ Sistema de tickets
 * 📊 Sistema de enquetes com cargos
-* 🔐 Comandos com controle de permissões
-* 🤖 Sistema de comandos personalizados
-* 🧠 Sistema de perguntas e respostas (Q&A)
-* 🔗 Integração com plugins do Minecraft
+* 🌍 Sistema de status do servidor
+* 📄 Sistema de formulario configuravel via comandos
+* 🤝 Sistema de sugestões
 
 ---
 

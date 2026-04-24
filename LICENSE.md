@@ -1,7 +1,7 @@
 
 Custom Non-Commercial Software License v1.0
 
-Copyright (c) 2026 Henrique Forever
+Copyright (c) 2026 Henrique02W
 
 1. DEFINITIONS
 
@@ -86,5 +86,5 @@ This License shall be governed and interpreted in accordance with the laws of Br
 
 For permissions beyond the scope of this License, contact:
 
-Henrique Forever
+Henrique02W
 (Provide contact information here, e.g., email or GitHub profile)
